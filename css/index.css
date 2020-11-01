@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+header {
+    color: white;
+}
+
+header, main, nav, footer {
+    text-align: center;
+}
+
+nav a {
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.9em;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    border-bottom: 2px orange solid;
+    font-size: 2em;
+    transition: .9s;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    font-size: .9rem;
+    color: red;
+}
+
+#csumb-img {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+#current-page {
+    border-bottom: 2px orange solid;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 4em;
+    margin-bottom: 0px;
+}
