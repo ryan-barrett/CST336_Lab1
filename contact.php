@@ -13,9 +13,9 @@
 </header>
 <hr>
 <nav>
-    <a href="index.html">Home</a>
+    <a href="index.php">Home</a>
     <a href="about.php">About</a>
-    <a id="current-page" href="contact.html">Contact</a>
+    <a id="current-page" href="contact.php">Contact</a>
 </nav>
 <br/><br/>
 <div id="content">

@@ -12,7 +12,7 @@
 </header>
 <hr>
 <nav>
-    <a id="current-page" href="index.html">Home</a>
+    <a id="current-page" href="index.php">Home</a>
     <a href="about.php">About</a>
     <a href="contact.php">Contact</a>
 </nav>
